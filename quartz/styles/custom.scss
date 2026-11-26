@@ -38,7 +38,7 @@ article {
   }
 
   em {
-    color: var(--gray);
+    color: rgb(115 200 255);
   }
 
   p > strong {
@@ -49,4 +49,16 @@ article {
 
 a {
     font-weight: 400 !important;
+}
+
+a.internal.broken {
+    color: var(--secondary);
+    opacity: .8;
+    transition: opacity .2s;
+}
+
+a.internal.broken:hover {
+    color: var(--secondary);
+    opacity: 1;
+    transition: opacity .2s;
 }
