@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Grenze Gotesch
+      body: Literata
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#727272"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#587971"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#F4F8FA"
+        lightgray: "#E1EBF0"
+        gray: "#526874"
+        darkgray: "#263945"
+        dark: "#132B3A"
+        secondary: "#315F7A"
+        tertiary: "#3B687C"
+        highlight: rgba(93, 143, 166, 0.16)
+        textHighlight: "#E8C66A33"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#7f7f7f"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#111A24"
+        lightgray: "#202D39"
+        gray: "#A5B5C0"
+        darkgray: "#DCE7ED"
+        dark: "#F1F6F8"
+        secondary: "#8EC7E0"
+        tertiary: "#A9D6E4"
+        highlight: rgba(111, 168, 193, 0.18)
+        textHighlight: "#E8C66A33"
   links:
     markdownLinkResolution: shortest
   contentIndex:
@@ -49,7 +49,7 @@ plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
-      defaultDateType: modified
+      defaultDateType: created
       priority:
         - frontmatter
         - git
@@ -105,7 +105,7 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: its-theme
       mode: both
