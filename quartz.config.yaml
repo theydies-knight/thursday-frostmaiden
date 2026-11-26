@@ -23,7 +23,7 @@ configuration:
       lightMode:
         light: "#F4F8FA"
         lightgray: "#E1EBF0"
-        gray: "#526874"
+        gray: "#627580"
         darkgray: "#263945"
         dark: "#132B3A"
         secondary: "#315F7A"
@@ -31,15 +31,15 @@ configuration:
         highlight: rgba(93, 143, 166, 0.16)
         textHighlight: "#E8C66A33"
       darkMode:
-        light: "#111A24"
+        light: "#0D1116"
         lightgray: "#202D39"
-        gray: "#A5B5C0"
+        gray: "#A0BCCE"
         darkgray: "#DCE7ED"
         dark: "#F1F6F8"
         secondary: "#8EC7E0"
         tertiary: "#A9D6E4"
-        highlight: rgba(111, 168, 193, 0.18)
-        textHighlight: "#E8C66A33"
+        highlight: rgba(108, 177, 206, 0.18)
+        textHighlight: "#6AD9E833"
   links:
     markdownLinkResolution: shortest
   contentIndex:
