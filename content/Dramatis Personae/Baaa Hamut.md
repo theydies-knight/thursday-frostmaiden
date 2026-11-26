@@ -6,7 +6,8 @@ tags:
 affiliations:
   - "[[Old MacDonald]]"
 ---
-## Background
+
+# Summary
 
 Baaa Hamut is a resourceful satyr with calico wool living in [[Ten-Towns]]. Finding opportunity in the desperate frontier economy, she shears her own soft undercoat wool and spins it into yarn, successfully passing it off to guards and locals as high-end luxury Angora wool from an exclusive breeder.
 
