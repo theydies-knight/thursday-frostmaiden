@@ -3,6 +3,7 @@ tags:
   - Party
 aliases:
   - Lux
+  - Luxenfrix
 affiliations:
 ---
 

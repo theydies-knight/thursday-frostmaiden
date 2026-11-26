@@ -1,5 +1,4 @@
 ---
-kind: npc
 summary: A merchant associated with Torg's who employs Sephek Kaltro as her bodyguard across Ten-Towns.
 tags:
   - Adversary
