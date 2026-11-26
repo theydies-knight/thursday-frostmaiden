@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Rime of the Frostmaiden
 ---
 
 This is a blank Quartz installation.

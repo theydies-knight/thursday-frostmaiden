@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.folder == "Dramatis Personae"
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: View
+    order:
+      - file.name
+      - tags
+      - aliases
+      - affiliations
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 163
