@@ -4,8 +4,7 @@ tags:
 aliases:
   - Io
 affiliations:
-  - Temple of Selune
+  - "[[Temple of Selune]]"
 ---
 
 # Summary
-

@@ -4,7 +4,7 @@ tags:
 aliases:
   - Niam
 affiliations:
-  - The Harpers
+  - "[[The Harpers]]"
 ---
 
 # Summary

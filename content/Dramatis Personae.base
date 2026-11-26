@@ -7,10 +7,19 @@ properties:
 views:
   - type: table
     name: View
+    groupBy:
+      property: tags
+      direction: ASC
+    groupOrder:
+      - - "#Party"
+      - - "#Ally"
+      - - "#Adversary"
+      - - "#Deity"
     order:
       - file.name
       - tags
       - aliases
+      - status
       - affiliations
     sort:
       - property: file.name
