@@ -7,4 +7,4 @@ tags:
 
 # Elza
 
-Working alongside her brother Garn the Hammer, she stocks rations, cold weather clothing, ice picks, and snowshoes for fortune-seekers. The shop relies on iron shipments delivered from Clan Battlehammer.
+Working alongside her brother [[Garn the Hammer]], she stocks rations, cold weather clothing, ice picks, and snowshoes for fortune-seekers. The shop relies on iron shipments delivered from Clan Battlehammer.

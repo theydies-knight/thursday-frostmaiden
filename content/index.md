@@ -1,6 +1,14 @@
 ---
 title: Rime of the Frostmaiden
 ---
+# Trapped in Ice
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to [[Icewind Dale - A Primer|Icewind Dale]], the land beyond the Spine of the World. Already a harsh land of bitter cold, the Dale is trapped in arcane twilight under the power of [[Auril the Frostmaiden]]. 
+
+# The Adventure Log
+
+Refer to [[Adventure Log.base|The Adventure Log]] for session by session recaps.
+
+# Dramatis Personae
+
+Refer to [[Dramatis Personae.base]] to keep up with characters the party encounters.
