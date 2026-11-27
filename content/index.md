@@ -1,5 +1,6 @@
 ---
 title: Rime of the Frostmaiden
+socialImage: media/index-1795746663516.webp
 ---
 # Trapped in Ice
 
