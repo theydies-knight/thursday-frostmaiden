@@ -5,6 +5,7 @@ aliases:
   - Lux
   - Luxenfrix
 affiliations:
+summary: A stoic white dragonborn paladin bound to redemption, shielding allies with unyielding resilience
 ---
 
 # Summary

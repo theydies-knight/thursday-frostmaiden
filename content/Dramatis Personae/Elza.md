@@ -1,8 +1,9 @@
 ---
 kind: npc
-summary: A lawful good shield dwarf outfitter who sells adventuring supplies at Blackiron Blades.
+summary: Pragmatic dwarf outfitter at Blackiron Blades who directed the adventurers toward the Northlook inn
 tags:
-  - Ally
+  - Neutral
+location: "[[Bryn Shander]]"
 ---
 
 # Elza

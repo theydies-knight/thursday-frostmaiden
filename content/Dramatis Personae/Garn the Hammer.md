@@ -1,8 +1,11 @@
 ---
 kind: npc
-summary: A lawful good shield dwarf blacksmith who co-runs Blackiron Blades in Bryn Shander.
+summary: Taciturn dwarven smith at Blackiron Blades who continuously hammers out steel weapons in Bryn Shander
 tags:
-  - Ally
+  - Neutral
+location: "[[Bryn Shander]]"
+aliases:
+  - Garn
 ---
 
 # Garn the Hammer

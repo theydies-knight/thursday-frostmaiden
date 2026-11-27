@@ -66,7 +66,7 @@ Whale oil was an important commodity in settlements across Icewind Dale. Because
 
 ## Natural Wealth
 
-One of the most unique natural riches that could be found in Icewind Dale was a mineral known as [[chardalyn]]. This naturally-occurring stone could absorb magical energy, which was subsequently released when the mineral was crushed or otherwise destroyed.
+One of the most unique natural riches that could be found in Icewind Dale was a mineral known as [[Chardalyn]]. This naturally-occurring stone could absorb magical energy, which was subsequently released when the mineral was crushed or otherwise destroyed.
 
 *The information below is from Forgotten Realms: Adventures in Faerûn.*
 # People of Icewind Dale

@@ -6,7 +6,7 @@ properties:
     displayName: Name
 views:
   - type: table
-    name: View
+    name: Default
     groupBy:
       property: tags
       direction: ASC
@@ -14,15 +14,23 @@ views:
       - - "#Party"
       - - "#Ally"
       - - "#Adversary"
+      - - "#Neutral"
       - - "#Deity"
+      - 
+      - - "#Archdevil"
     order:
       - file.name
       - tags
-      - aliases
       - status
       - affiliations
+      - location
     sort:
       - property: file.name
         direction: ASC
     columnSize:
       file.name: 163
+  - type: table
+    name: Descriptive
+    order:
+      - file.name
+      - summary

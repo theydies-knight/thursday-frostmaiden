@@ -4,7 +4,7 @@ title: Pierce the Veil
 ---
 # Summary
 
-In the frost-bitten streets of Bryn Shander, [[Niam Sol|Niam]] and [[Io Astraea|Io]] regrouped with [[Ji-rah]] outside Blackiron Blades. Both spellcasters carried a heavy burden from their recent detours: Niam wrestled with the moral ambiguity of his [[The Harpers|Harper]] contact’s orders, while Io felt a bittersweet knot in her stomach after receiving divine approval from [[Selûne]] and [[Amaunator]] to end a life. Seeking warmth and privacy, the trio retreated to the Northlook, a rowdy tavern dominated by the bizarre spectacle of "[[Ol' Bitey]]"—a massive, taxidermied knucklehead trout enchanted with a *Magic Mouth* spell to sing whenever someone walked past, prompting the drunken patrons to roar along in chorus.
+In the frost-bitten streets of [[Ten-Towns of Icewind Dale#Bryn Shander|Bryn Shander]], [[Niam Sol|Niam]] and [[Io Astraea|Io]] regrouped with [[Ji-rah]] outside [[Blackiron Blades]]. Both spellcasters carried a heavy burden from their recent detours: Niam wrestled with the moral ambiguity of his [[The Harpers|Harper]] contact’s orders, while Io felt a bittersweet knot in her stomach after receiving divine approval from [[Selûne]] and [[Amaunator]] to end a life. Seeking warmth and privacy, the trio retreated to the Northlook, a rowdy tavern dominated by the bizarre spectacle of "[[#Ol' Bitey]]"—a massive, taxidermied knucklehead trout enchanted with a *Magic Mouth* spell to sing whenever someone walked past, prompting the drunken patrons to roar along in chorus.
 
 Over bowls of warm stew, rare molasses cookies, and a platter of barely cooked meat for Ji-rah, the party debated the ethics of assassinating [[Torrga Icevein]] and [[Sephek Kaltro]] without a trial. Realizing that local corruption and cultish fanaticism made legal justice impossible, they concocted a scheme inspired by Io's favorite romance novels: they would lure Torrga out of town using the promise of a freshly killed owlbear pelt and meat. They tested the waters with the tavern's retired mercenary proprietor, [[Scramsax]], who warned them that Torrga was just as likely to murder them as pay them, and advised a naive Io to stop flashing whole gold pieces in such a desperate town.
 
@@ -130,7 +130,7 @@ The human proprietor of the Northlook tavern in Bryn Shander and a retired merce
 
 The rotund, no-nonsense cook at the Northlook tavern. Though initially frustrated when Scramsax asked her for sweets, her demeanor softened completely after Io tipped a full gold piece, prompting her to bring the party water, fresh bread, tough molasses cookies, and a massive platter of blue-rare meat for Ji-rah.
 
-## Ol' Bitey
+## [[Ol' Bitey]]
 
 A massive, taxidermied knucklehead trout mounted over the fireplace mantle in the Northlook. Once a legendary monster in the lake of Maer Dualdon before being caught by a human rogue, it was bought by Scramsax and subsequently cursed by a wizard with a *Magic Mouth* spell. Whenever anyone walks within five feet of it, it snaps its head and sings a rhyme, prompting the entire tavern to roar the rest of the song at the top of their lungs.
 

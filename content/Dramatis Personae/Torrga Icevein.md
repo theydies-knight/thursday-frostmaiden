@@ -1,5 +1,5 @@
 ---
-summary: A merchant associated with Torg's who employs Sephek Kaltro as her bodyguard across Ten-Towns.
+summary: ruthless dwarf merchant captain who survived brutal interrogation before escaping into the tundra. Works with the Zhentarim.
 tags:
   - Adversary
 status:

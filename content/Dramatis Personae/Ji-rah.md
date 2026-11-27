@@ -3,6 +3,7 @@ tags:
   - Party
 aliases:
 affiliations:
+summary: A blue dragonborn barbarian who enlarges in combat and wields deadly lightning breath
 ---
 
 # Background

@@ -1,6 +1,6 @@
 ---
 kind: lore
-summary: A sun god worshiped at Bryn Shander's House of the Morninglord who takes both male and female forms.
+summary: Sun deity whose long-abandoned altar in Bryn Shander manifested a miraculous celestial shooting star
 tags:
   - Deity
 ---

@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.folder == "Lore"
+    - file.tags.containsAny("Resource", "Key-Item")
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: View
+    order:
+      - file.name
+      - description
+    sort: []
+    columnSize:
+      file.name: 171

@@ -1,10 +1,11 @@
 ---
 kind: npc
-summary: A human Harper agent who gathers intelligence in Bryn Shander while posing as a homeless woman.
+summary: An undercover Harper operative posing as a vagrant who warned Niam about regional threats
 tags:
   - Ally
 affiliations:
   - "[[The Harpers]]"
+location: "[[Bryn Shander]]"
 ---
 
 # Beldora

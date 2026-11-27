@@ -1,3 +1,7 @@
+---
+aliases:
+  - Ten-Towns
+---
 # Ten-Towns of Icewind Dale
 
 Ten-Towns didn't spring up overnight. It started from humble beginnings four centuries ago. Immigrants from all over Faerûn came here in search of escape or adventure and built a modest trade post atop the hill where Bryn Shander now stands. One by one, settlements sprung up on the shores of Maer Dualdon, Lac Dinneshere, and Redwaters. The ever-present threat of orcs and other monsters compelled the poorly defended lakeside towns to turn Bryn Shander from a modest hilltop trading post into a walled town capable of defending all Ten-Towners if and when the worst comes.

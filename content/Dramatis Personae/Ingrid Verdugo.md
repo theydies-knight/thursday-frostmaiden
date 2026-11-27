@@ -3,6 +3,7 @@ tags:
   - Party
 aliases:
   - Ingrid
+summary: An enigmatic Bladesinger who spent the last three years in Icewind Dale
 ---
 
 # Summary

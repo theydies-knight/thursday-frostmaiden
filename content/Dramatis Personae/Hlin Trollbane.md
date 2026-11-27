@@ -1,8 +1,9 @@
 ---
 kind: npc
-summary: An elderly shield dwarf and retired bounty hunter who hires adventurers to stop a suspected serial killer.
+summary: An elderly shield dwarf and retired guard who hires adventurers to stop a suspected serial killer.
 tags:
   - Ally
+location: "[[Bremen]]"
 ---
 
 # Hlin Trollbane

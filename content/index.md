@@ -3,7 +3,7 @@ title: Rime of the Frostmaiden
 ---
 # Trapped in Ice
 
-Welcome to [[Icewind Dale - A Primer|Icewind Dale]], the land beyond the Spine of the World. Already a harsh land of bitter cold, the Dale is trapped in arcane twilight under the power of [[Auril the Frostmaiden]]. 
+Welcome to [[Icewind Dale - A Primer|Icewind Dale]], the land beyond the Spine of the World. Already a harsh land of bitter cold, the Dale is trapped in arcane twilight under the power of [[Auril, the Frostmaiden]]. 
 
 # The Adventure Log
 
