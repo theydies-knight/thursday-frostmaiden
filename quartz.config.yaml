@@ -135,6 +135,8 @@ plugins:
     enabled: true
   - source: "@quartz-community/og-image"
     enabled: true
+    options:
+      colorScheme: darkMode
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"
@@ -145,13 +147,26 @@ plugins:
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
+
+# ----------- EXPLORER -------------
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      title: Wiki
+      sort:
+        - title
+        - folder
+        - {direction: desc }
     layout:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
+    options:
+      localGraph:
+        depth: 2
+      globalGraph:
+        depth: 2
     layout:
       position: right
       priority: 10
