@@ -123,8 +123,17 @@ export default (() => {
           }
         })}
 
-        <meta name="robots" content="noindex, nofollow, noai, noimageai" />
+        {/* Block search engine indexing, link following, cached copies, snippets, and image search */}
+        <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex" />
 
+        {/* Block major AI training crawlers */}
+        <meta name="robots" content="noai, noimageai" />
+        <meta name="GPTBot" content="noindex, nofollow" />
+        <meta name="Google-Extended" content="noindex" />
+        <meta name="CCBot" content="noindex, nofollow" />
+
+        {/* Prevent leaking your wiki URL in Referer headers when players click external links */}
+        <meta name="referrer" content="no-referrer" />
       </head>
     )
   }
