@@ -5,7 +5,7 @@ aliases:
   - Niam
 affiliations:
   - "[[The Harpers]]"
-summary: A shadar-kai wildfire druid and secret Harper spy whose brutal interrogation shadowed his faith
+description: A shadar-kai wildfire druid and secret Harper spy whose brutal interrogation shadowed his faith
 ---
 
 # Summary

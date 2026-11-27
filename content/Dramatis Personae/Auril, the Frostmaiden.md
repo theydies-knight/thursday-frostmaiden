@@ -1,6 +1,6 @@
 ---
 kind: npc
-summary: The god of winter's wrath who threatens Ten-Towns with eternal night.
+description: The god of winter's wrath who threatens Ten-Towns with eternal night.
 tags:
   - Deity
 aliases:

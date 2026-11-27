@@ -1,6 +1,6 @@
 ---
 kind: lore
-summary: Sun deity whose long-abandoned altar in Bryn Shander manifested a miraculous celestial shooting star
+description: Sun deity whose long-abandoned altar in Bryn Shander manifested a miraculous celestial shooting star
 tags:
   - Deity
 ---

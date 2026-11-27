@@ -1,6 +1,6 @@
 ---
 kind: npc
-summary: An elderly shield dwarf and retired guard who hires adventurers to stop a suspected serial killer.
+description: An elderly shield dwarf and retired guard who hires adventurers to stop a suspected serial killer.
 tags:
   - Ally
 location: "[[Bremen]]"

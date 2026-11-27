@@ -1,6 +1,6 @@
 ---
 kind: npc
-summary: Pragmatic dwarf outfitter at Blackiron Blades who directed the adventurers toward the Northlook inn
+description: Pragmatic dwarf outfitter at Blackiron Blades who directed the adventurers toward the Northlook inn
 tags:
   - Neutral
 location: "[[Bryn Shander]]"

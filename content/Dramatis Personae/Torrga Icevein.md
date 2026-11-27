@@ -1,5 +1,5 @@
 ---
-summary: ruthless dwarf merchant captain who survived brutal interrogation before escaping into the tundra. Works with the Zhentarim.
+description: ruthless dwarf merchant captain who survived brutal interrogation before escaping into the tundra. Works with the Zhentarim.
 tags:
   - Adversary
 status:

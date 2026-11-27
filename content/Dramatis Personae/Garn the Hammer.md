@@ -1,6 +1,6 @@
 ---
 kind: npc
-summary: Taciturn dwarven smith at Blackiron Blades who continuously hammers out steel weapons in Bryn Shander
+description: Taciturn dwarven smith at Blackiron Blades who continuously hammers out steel weapons in Bryn Shander
 tags:
   - Neutral
 location: "[[Bryn Shander]]"

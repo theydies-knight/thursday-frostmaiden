@@ -154,9 +154,9 @@ plugins:
     options:
       title: Wiki
       sort:
-        - title
         - folder
         - {direction: desc }
+        - title
     layout:
       position: left
       priority: 50

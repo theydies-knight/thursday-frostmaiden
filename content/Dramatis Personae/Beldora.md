@@ -1,6 +1,6 @@
 ---
 kind: npc
-summary: An undercover Harper operative posing as a vagrant who warned Niam about regional threats
+description: An undercover Harper operative posing as a vagrant who warned Niam about regional threats
 tags:
   - Ally
 affiliations:

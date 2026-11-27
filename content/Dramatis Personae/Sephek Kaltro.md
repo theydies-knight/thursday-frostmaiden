@@ -1,6 +1,6 @@
 ---
 kind: npc
-summary: A mariner possessed by a frost druid's spirit who murders Ten-Towners on Auril's behalf while posing as Torrga Icevein's bodyguard.
+description: A mariner possessed by a frost druid's spirit who murders Ten-Towners on Auril's behalf while posing as Torrga Icevein's bodyguard.
 tags:
   - Adversary
 status:

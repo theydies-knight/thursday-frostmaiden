@@ -5,7 +5,7 @@ tags:
   - Party
 affiliations:
   - "[[Old MacDonald]]"
-summary: A satyr vestige warlock selling personal wool who shatters foes with hay-bursting eldritch magic
+description: A satyr vestige warlock selling personal wool who shatters foes with hay-bursting eldritch magic
 ---
 
 # Summary
