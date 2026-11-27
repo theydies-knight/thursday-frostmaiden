@@ -23,13 +23,13 @@ article {
     margin-top: 2.5rem;
     padding-bottom: 0.25rem;
     border-bottom: 1px solid var(--lightgray);
-    color: cadetblue;
+    color: #a9edef;
   }
 
   h3 {
     font-size: 1.3rem;
     margin-top: 2rem;
-    color:darkcyan;
+    color:#88bac7;
   }
 
   h4,
@@ -40,12 +40,12 @@ article {
   }
 
   em {
-    color: rgb(115 200 255);
+    color:#a4dbff;
   }
 
   p > strong {
     color: var(--dark);
-    font-weight: 700;
+    font-weight: 600;
   }
 }
 
