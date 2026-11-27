@@ -33,4 +33,7 @@ views:
     name: Descriptive
     order:
       - file.name
-      - summary
+      - description
+    sort:
+      - property: summary
+        direction: ASC
